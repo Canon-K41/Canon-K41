@@ -14,7 +14,7 @@ I'm a student at Kyushu University.
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ### Editer,Application
-[![Editer, Application](https://skillicons.dev/icons?i=neovim,vim,discord,obsidian,notion)](https://skillicons.dev)
+[![Editer, Application](https://skillicons.dev/icons?i=neovim,vim,discord,obsidian, notion, postman)](https://skillicons.dev)
 ### Platforms
 [![Platforms](https://skillicons.dev/icons?i=git,github,gmail)](https://skillicons.dev)
 
