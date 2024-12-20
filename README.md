@@ -1,5 +1,4 @@
 # Hi,I'm K41. 
-I'm a student at Kyushu University.
 
 ## 🏃‍♀️ Activities
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Canon-K41&theme=transparent)
